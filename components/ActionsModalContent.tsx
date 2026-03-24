@@ -14,10 +14,10 @@ const ImageThumbnail = ({ file }: { file: Models.Document }) => {
         type={(file as any).type}
         extension={(file as any).extension}
         url={(file as any).url}
-        className="size-42"
+        className="size-24"
       />
       <div className="flex flex-col">
-        <p className="subtitle-2 mb-1">{(file as any).name}</p>
+        <p className="w-38 overflow-hidden">{(file as any).name}</p>
         <FormattedDateTime date={file.$createdAt} className="caption" />
       </div>
     </div>

@@ -43,15 +43,17 @@ const MobileNavigation = ({
 
   return (
     <header className="mobile-header">
-      <Image
-        src="/assets/icons/logo-full-brand-2.svg"
-        alt="logo"
-        width={180}
-        height={52}
-        className="h-auto"
-        loading="eager"
-        priority
-      />
+      <Link href="/" className="block w-fit self-center">
+        <Image
+          src="/assets/icons/logo-full-brand-2.svg"
+          alt="logo"
+          width={180}
+          height={52}
+          className="block"
+          loading="eager"
+          priority
+        />
+      </Link>
 
       <Sheet open={open} onOpenChange={setOpen}>
         <SheetTrigger asChild>

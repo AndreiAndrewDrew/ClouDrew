@@ -301,7 +301,7 @@
     @apply aspect-square w-10 rounded-full object-cover;
   }
   .mobile-nav {
-    @apply text-[16px] leading-6 font-semibold flex-1 gap-1 text-brand;
+    @apply text-[16px] leading-6 font-semibold flex-col gap-1 text-brand;
   }
   .mobile-nav-list {
     @apply flex flex-1 flex-col gap-4;
@@ -386,7 +386,7 @@
     @apply flex w-full justify-between;
   }
   .recent-file-name {
-    @apply text-[14px] leading-5 font-semibold line-clamp-1 w-full text-light-100 sm:max-w-40 lg:max-w-50;
+    @apply text-[14px] leading-5 font-semibold line-clamp-1 text-light-100 max-w-40 sm:max-w-70 md:max-w-40 lg:max-w-40 xl:max-w-60;
   }
   .recent-file-date {
     @apply text-[14px] leading-5 font-normal text-light-100/80;
