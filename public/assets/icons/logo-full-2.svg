@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="320"
+   height="82"
+   viewBox="0 0 320 82"
+   fill="none"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="logo-full-2.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerstroke"
+       message=""
+       id="path-effect72"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CentripetalCatmullRom"
+       interpolator_beta="0.75"
+       start_linecap_type="round"
+       end_linecap_type="round"
+       offset_points="99.431354,1.8950931"
+       linejoin_type="spiro"
+       miter_limit="4"
+       not_jump="true"
+       sort_points="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect71"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="0.012"
+       steps="1"
+       smooth_angles="0"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       step="1" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       message=""
+       id="path-effect70"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CentripetalCatmullRom"
+       interpolator_beta="0.75"
+       start_linecap_type="round"
+       end_linecap_type="round"
+       offset_points="13.726656,1.8950931"
+       linejoin_type="spiro"
+       miter_limit="4"
+       not_jump="true"
+       sort_points="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect69"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="0.012"
+       steps="1"
+       smooth_angles="0"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       step="1" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <ellipse
+         style="fill:#000000"
+         id="ellipse2"
+         cx="455.76501"
+         cy="799.71387"
+         rx="134.04854"
+         ry="141.89528"
+         clip-path="none" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.9787946"
+     inkscape:cx="19.456289"
+     inkscape:cy="44.724197"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="opacity:0.763889;fill:#ffffff;fill-opacity:1;stroke-width:1.04303"
+     d="M 74.538778,78.631763 C 74.055256,78.355742 73.398457,77.757003 73.079223,77.301233 72.511386,76.490533 62.644216,59.402597 53.347471,43.129845 50.779073,38.634194 47.405936,32.766494 45.851612,30.090511 41.873346,23.241382 36.071927,12.606105 34.442882,9.1757948 33.248019,6.6597543 33.112545,6.0882632 33.417959,4.852261 c 0.584141,-2.3639997 2.08718,-2.8810508 7.74886,-2.6656389 4.999097,0.1902024 6.821691,0.6918452 8.21699,2.261605 0.948141,1.0666931 1.808867,2.5459327 20.797934,35.7432519 7.769834,13.583476 14.477989,25.528072 14.907014,26.543545 0.683117,1.616895 0.720811,2.044027 0.303337,3.437426 -0.497002,1.658845 -4.251528,6.351936 -6.180444,7.725444 -1.453929,1.035288 -3.564281,1.366717 -4.672872,0.733869 z"
+     id="path497" />
+  <path
+     style="opacity:0.333333;fill:#ffffff;fill-opacity:1;stroke-width:1.04303"
+     d="m 20.633252,79.254895 c -0.374638,-0.09791 -0.68116,-0.311011 -0.68116,-0.473575 0,-0.162564 1.947039,-3.346302 4.32675,-7.074976 9.79475,-15.347002 10.903768,-17.179808 10.706472,-17.693951 -0.113402,-0.29555 -1.727948,-3.127765 -3.587857,-6.293809 -1.859907,-3.166044 -4.684863,-8.009024 -6.277682,-10.76218 -1.592817,-2.753156 -3.231342,-5.55564 -3.641169,-6.227742 -0.409824,-0.6721 -0.74579,-1.640985 -0.746591,-2.153076 -7.99e-4,-0.512093 1.685286,-3.752464 3.746859,-7.200827 3.748899,-6.270725 4.681076,-7.632065 5.226049,-7.632065 0.15981,0 3.842651,5.911487 8.184092,13.136638 4.34144,7.225154 11.384875,18.916764 15.652078,25.981357 17.47279,28.927178 15.725052,25.862509 15.008101,26.31682 -0.529637,0.335617 -46.642806,0.410089 -47.915942,0.07738 z"
+     id="path494" />
+  <path
+     style="opacity:0.836806;fill:#ffffff;fill-opacity:1;stroke-width:1.04303"
+     d="M 9.5810105,79.151709 C 8.4438405,78.672772 7.2509432,76.993306 4.3827958,71.833201 2.6759305,68.762367 1.9358632,67.011226 1.9088044,65.979257 1.8784754,64.822597 2.6509876,63.049353 5.5110011,57.710673 7.5134446,53.972789 11.161432,47.103524 13.61764,42.445641 l 4.465834,-8.468879 3.001264,4.965775 c 4.358835,7.21195 7.430499,12.722331 7.430499,13.329868 0,0.871907 -13.664908,24.624847 -14.944028,25.97636 -0.944514,0.997972 -2.778936,1.413083 -3.9901985,0.902944 z"
+     id="path493" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.9324px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:1.53497"
+     x="94.16127"
+     y="53.312206"
+     id="text2"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="94.16127"
+       y="53.312206"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.53497">ClouDrew</tspan></text>
+</svg>
