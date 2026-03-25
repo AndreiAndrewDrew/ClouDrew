@@ -248,7 +248,7 @@
 
   /* Root Layout */
   .main-content {
-    @apply h-full flex-1 overflow-auto bg-light-400 px-5 py-7 sm:mr-7 sm:rounded-[30px] md:mb-7 md:px-9 md:py-10;
+    @apply h-full flex-1 overflow-auto bg-light-400 px-7 py-7 sm:mr-7 sm:rounded-[30px] md:mb-7 md:px-7 md:py-7;
   }
 
   /* Header */
@@ -354,7 +354,7 @@
     @apply flex mt-2 flex-col justify-between sm:flex-row sm:items-center;
   }
   .file-list {
-    @apply grid w-full gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4;
+    @apply grid w-full gap-3 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3;
   }
   .sort-container {
     @apply mt-5 flex items-center sm:mt-0 sm:gap-3;
@@ -386,7 +386,7 @@
     @apply flex w-full justify-between;
   }
   .recent-file-name {
-    @apply text-[14px] leading-5 font-semibold line-clamp-1 text-light-100 max-w-40 sm:max-w-70 md:max-w-40 lg:max-w-40 xl:max-w-60;
+    @apply text-[14px] leading-5 font-semibold text-light-100 max-w-40 sm:max-w-60 md:max-w-40 lg:max-w-40 xl:max-w-100;
   }
   .recent-file-date {
     @apply text-[14px] leading-5 font-normal text-light-100/80;
