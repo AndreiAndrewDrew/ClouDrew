@@ -321,7 +321,7 @@
     @apply flex w-full bg-brand hover:bg-brand-100 transition-all rounded-full text-[14px] leading-5 font-medium h-13 gap-2 px-10 shadow-drop-1;
   }
   .uploader-preview-list {
-    @apply fixed bottom-10 right-10 z-50 flex size-full h-fit max-w-120 flex-col gap-3 rounded-4xl bg-white p-7 shadow-drop-3;
+    @apply fixed bottom-10 right-0 z-50 flex size-full h-fit max-w-100 flex-col gap-3 rounded-4xl bg-white p-7 shadow-drop-3;
   }
   .uploader-preview-item {
     @apply flex items-center justify-between  gap-3 rounded-xl p-3 shadow-drop-3;
